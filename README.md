@@ -56,6 +56,6 @@ It was cleaned, reformatted, and split into **three tables**:
 ## 🚀 How to Reproduce
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/bank-loan-marketing-data-cleaning.git
-   cd bank-loan-marketing-data-cleaning
+   git clone https://github.com/<your-username>/python_data_cleaning.git
+   cd python_data_cleaning
 
